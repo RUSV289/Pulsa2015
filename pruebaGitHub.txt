@@ -1,4 +1,4 @@
 esto es un ejemplo
 en el que
 se usara 
-gt gub
+git hub
